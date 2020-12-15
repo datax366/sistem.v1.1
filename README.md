@@ -5,7 +5,7 @@
 
   </h1>
 <head>
-<tittle>site</tittle>  
+<tittle style="width:100%;height:60px; bagroungbaground:blue;>site</tittle>  
 </head>
 
 
