@@ -1,6 +1,17 @@
 # sistem.v1.1
-sistem repository data version 1.1
-#version
-#1.1
-#.mds
-.mds=.md
+<html readme.md="include" include="html" html=".html">
+  <h1 tittle="head">
+  #include .css
+
+  </h1>
+<head>
+<tittle>site</tittle>  
+</head>
+
+
+</html>
+
+
+
+
+
